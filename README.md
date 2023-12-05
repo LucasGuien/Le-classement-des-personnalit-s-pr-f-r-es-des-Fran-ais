@@ -50,27 +50,35 @@ Ces deux questions permettent ainsi aux personnes interrogées d’établir leur
 
 # III. Acteurs impliqués dans les classements
 ## A. Qui interroger ?
-_### 1) Entourage personnel:_
+### 1) Entourage personnel:
 Interroger l'entourage personnel, notamment les amis et la famille, permet d'explorer les mécanismes sociaux et culturels qui influent sur le choix des personnalités préférées. L'approche micro-sociologique de Howard Becker (Masson, 20213) souligne l'importance de l'entourage dans la construction des préférences culturelles. Il met l'accent sur l'importance des interactions sociales dans la construction des préférences culturelles en explorant comment les individus, au sein de petits groupes sociaux, influent mutuellement sur la formation de leurs choix personnels. Interroger l'entourage personnel permet d'appliquer cette perspective à la compréhension des choix personnels en matière de personnalités préférées. Ces interactions offrent une perspective intimiste, révélant des dynamiques souvent complexes et personnelles.
-_### 2) Réseaux sociaux (Facebook, etc.):_
+
+### 2) Réseaux sociaux (Facebook, etc.):
 Les réseaux sociaux, en particulier Facebook, sont des espaces où les préférences sont souvent exprimées de manière publique. Les travaux de Danah Boyd (Lévy, 20154) sur les réseaux sociaux se concentrent sur l'impact des interactions en ligne sur la construction de l'identité et des relations sociales. Elle explore comment les dynamiques numériques influent sur la perception de soi et les relations interpersonnelles. En questionnant les utilisateurs, on peut ainsi approfondir notre compréhension de la façon dont les interactions en ligne et la viralité des contenus influent sur la perception des personnalités.
-_### 3) Chercheurs spécialisés:_
+
+### 3) Chercheurs spécialisés:
 L'expertise des chercheurs spécialisés en sociologie et en médias est essentielle pour décrypter les subtilités des classements. Les travaux de Pierre Bourdieu (Arliaud, 19855) sur le champ culturel et les distinctions sociales offrent un cadre conceptuel pour analyser les influences structurelles. En effet, dans "Homo Academicus", il examine la reproduction sociale au sein du champ académique, mettant en lumière comment les inégalités sociales se reflètent dans les choix éducatifs et la réussite universitaire. Il explore comment les structures sociales influent sur la distribution inégale du capital culturel, affectant la position sociale des individus dans le milieu académique. En interrogeant des chercheurs spécialisés, nous pouvons appliquer ces théories pour contextualiser les tendances observées dans la construction des classements. Leur analyse approfondie peut mettre en lumière les tendances sociologiques et les influences structurelles qui contribuent à la construction des classements, élargissant ainsi la perspective.
-_### 4) Instituts de sondage:_
+
+### 4) Instituts de sondage:
 Les instituts de sondage jouent un rôle central dans la collecte de données pour établir les classements. Les méthodologies de recherche quantitative qu’ils utilisent peuvent être analysées à la lumière des travaux de David De Vaus (De Vaus, 20026) sur la recherche sociale. L’auteur se concentre sur les méthodologies quantitatives, offrant des directives pratiques pour la conception, la collecte et l'analyse des données. Il contribue à la rigueur méthodologique en soulignant l'importance de la validité et de la fiabilité des instruments de recherche. En les interrogeant, on peut obtenir des informations détaillées sur les méthodes de collecte de données, les ajustements statistiques réalisés, et sur la manière dont ils assurent la représentativité de l'échantillon, garantissant ainsi la validité et la fiabilité des résultats.
-_### 5) Journalistes people:_
+
+### 5) Journalistes people:
 Les journalistes spécialisés dans le domaine des célébrités ont une perspective unique sur la construction médiatique des personnalités. Leurs points de vue peuvent révéler comment les classements sont utilisés dans l'industrie du divertissement, soulignant l'importance des relations publiques et de la gestion de l'image dans le milieu des célébrités.
 
 ## B. Questions clés
-_### 1) Fondement du classement:_
+### 1) Fondement du classement:
 En intégrant les travaux de Erving Goffman (Goffman, 19737) sur la présentation de soi, l'interrogation sur le fondement du classement peut explorer comment les individus façonnent leur identité à travers leurs choix de personnalités préférées, prenant en compte les différentes sphères sociales. En effet, l’auteur explore comment les individus façonnent délibérément leur image dans les interactions sociales, utilisant des stratégies dramaturgiques pour influencer la perception d'autrui. Il met l'accent sur le rôle de l'individu en tant qu'acteur social, interprétant et ajustant continuellement son comportement pour gérer les impressions. L'exploration des critères de notoriété peut mettre en évidence des différences significatives entre les perceptions médiatiques, personnelles et en ligne.
-_### 2) Impact sur l'opinion publique:_
+
+### 2) Impact sur l'opinion publique:
 Les travaux de Kathleen Hall Jamieson (Jamieson, 19928) sur l'impact des médias sur l'opinion publique offrent une base solide pour évaluer comment les classements influent sur la perception des personnalités. Elle examine comment les médias influent sur l'opinion publique en façonnant la perception des événements politiques. L’auteure met en évidence l'importance des médias dans la construction de la réalité politique et explore comment ces influences peuvent affecter la formation des opinions et le comportement électoral. Les enquêtes peuvent évaluer dans quelle mesure les classements façonnent la perception publique des personnalités. Une analyse approfondie peut également révéler si ces influences varient selon des paramètres tels que l'âge, la classe sociale ou la localisation géographique.
-_### 3) Méthodes de construction de l'indicateur:_
+
+### 3) Méthodes de construction de l'indicateur:
 Les théories de la méthodologie de recherche, notamment celles de Michael Quinn Patton (Patton, 19909), peuvent être appliquées pour évaluer les méthodes de construction des instituts de sondage. Elle se caractérise par une approche qualitative orientée vers l'évaluation, mettant l'accent sur la compréhension approfondie du contexte social et culturel. Ses travaux encouragent l'utilisation de méthodes mixtes et la flexibilité méthodologique pour capturer la complexité des phénomènes étudiés. Les enquêtes sur les méthodes de construction peuvent offrir un aperçu détaillé des approches utilisées par les instituts de sondage. Cette exploration approfondie peut mettre en lumière des nuances dans les méthodologies en fonction des médias utilisés, des publics cibles, et des évolutions temporelles.
-_### 4) Le choix des votants:_
+
+### 4) Le choix des votants:
 Les concepts de Max Weber (Weber, 192210) sur l'idéal type et la représentativité peuvent être utilisés pour comprendre comment les instituts de sondage sélectionnent les votants. Il propose une abstraction conceptuelle pour comprendre des phénomènes sociaux complexes, tout en soulignant que la représentativité dans la recherche sociale nécessite une sélection délibérée d'exemples pertinents, plutôt qu'une simple reproduction statistique, pour saisir la réalité sociale de manière approfondie. Ainsi, les enquêtes peuvent permettre de comprendre comment les instituts de sondage sélectionnent les participants pour garantir la représentativité. En explorant les opinions des cercles proches par rapport à celles des inconnus, nous pouvons appliquer ces concepts pour évaluer l'influence relative des différents groupes sociaux.
-_### 5) Objectif réel du classement:_
+
+### 5) Objectif réel du classement:
 Les enquêtes sur l'objectif réel peuvent mettre en évidence les motivations sous-jacentes à la création de ces classements. Cela inclut l'exploration des implications économiques, politiques, et culturelles liées à ces évaluations, fournissant ainsi un aperçu complet des enjeux plus larges associés à ces classements.
 
 # IV. Représentation de la base de données et circulation dans les médias
