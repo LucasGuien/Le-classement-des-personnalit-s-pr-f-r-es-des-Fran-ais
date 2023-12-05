@@ -1,0 +1,7 @@
+echo "# Le-classement-des-personnalit-s-pr-f-r-es-des-Fran-ais" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/LucasGuien/Le-classement-des-personnalit-s-pr-f-r-es-des-Fran-ais.git
+  git push -u origin main
