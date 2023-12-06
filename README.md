@@ -153,7 +153,7 @@ Patton, M. Q. (1990). Qualitative Evaluation and Research Methods. SAGE Publicat
 Weber, M. (1922). Économie et société. Plon. XXII-651 p.
 
 # Annexe 1 - Questionnaire : Le classement des personnalités préférées des Français (partagé sur les réseaux sociaux)
-https://docs.google.com/forms/d/144SHT2AgRvM0c-NfpbtnZLTqzfNDWHMATG Oh78QIHRo/edit
+https://docs.google.com/forms/d/e/1FAIpQLSfRc3cU_N3oxiXtM9QhwuNfdgJSAh6z_32XOqao-Vr8RT523A/viewform?vc=0&c=0&w=1&flr=0
 Analyse de l’échantillon (150 personnes):
 
 <img width="655" alt="Screenshot 2023-12-05 at 18 44 33" src="https://github.com/LucasGuien/Le-classement-des-personnalit-s-pr-f-r-es-des-Fran-ais/assets/152799958/10dc21d8-2388-46aa-9531-9f974cb490c3">
