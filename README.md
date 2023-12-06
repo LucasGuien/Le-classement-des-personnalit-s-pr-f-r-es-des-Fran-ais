@@ -177,57 +177,66 @@ Nous avons décidé de conduire une interview avec un étudiant en Master de jou
 
 Q : Bonjour ***, merci beaucoup d’avoir bien voulu répondre à nos questions !
 R : Mais de rien, tout le plaisir est pour moi.
+
 Q : Pouvez-vous partager votre perception personnelle de l'importance des classements des personnalités préférées des Français dans la société actuelle?
- 
 R : Je considère que ces classements sont importants car ils reflètent les préférences culturelles et sociales, contribuant ainsi à la construction de notre identité collective.
+
 Q : En tant qu'étudiant en journalisme, comment percevez-vous le rôle des médias dans la construction et la promotion de ces classements?
 R : Je pense que les médias jouent un rôle essentiel en influençant la notoriété des personnalités grâce à la promotion de ces classements, ce qui a un impact significatif sur l'opinion publique. Par exemple, le classement annuel des célébrités de 2023 a suscité des débats animés sur les réseaux sociaux et a contribué à façonner les perceptions du public envers ces personnalités au cours de cette année.
 
 Q : Avez-vous, au cours de vos études en journalisme, observé des tendances ou des changements significatifs dans la manière dont les médias traitent les classements des personnalités préférées?
 R : Oui, au fil de mes études en journalisme, j'ai constaté des changements notables dans la façon dont les médias abordent ces classements, en particulier avec l'émergence des plateformes numériques. Aujourd’hui, les réponses sont données beaucoup plus de manière graphique et ludique, avec des posts sur Instagram par exemple. Peu de gens de notre génération s’intéressent aux classements sur un site Internet ou à la télévision.
+
 Q : Comment pensez-vous que l'évolution des médias au fil des ans a pu influencer la manière dont ces classements sont présentés et perçus?
 R : L'évolution des médias a accéléré la diffusion de l'information, modifiant la présentation et la perception des classements des personnalités préférées, les rendant plus dynamiques et interactifs.
 
 Q : En tant que futur journaliste, comment évaluez-vous l'impact des méthodes de construction des instituts de sondage sur la crédibilité des classements?
 R : En tant que futur journaliste, je suis conscient de l'impact des méthodes de sondage sur la crédibilité des classements. Une méthodologie transparente et inclusive est essentielle pour assurer la légitimité de ces classements. Il faut qu’il y ait un maximum de diversité, que cela soit en termes d’âge, de genre, d’origine sans oublier la diversité régionale.
+
 Q : Selon vous, quelle méthodologie serait la plus transparente et juste pour établir ces classements, et pourquoi?
 R : Une méthodologie transparente impliquant une diversité de participants serait la plus juste, renforçant la crédibilité en reflétant les opinions de manière équilibrée. Les sondages d’opinion regroupant un échantillon assez représentatif de la population française serait, pour moi, la meilleure des méthodes.
    
- Q : Comment envisagez-vous le lien entre les classements des personnalités préférées et l'opinion publique? Pensez-vous que ces classements peuvent influencer les opinions de la société?
+Q : Comment envisagez-vous le lien entre les classements des personnalités préférées et l'opinion publique? Pensez-vous que ces classements peuvent influencer les opinions de la société?
 R : Les classements peuvent certainement influencer l'opinion publique en reflétant et en contribuant aux préférences collectives. Les médias, y compris les journalistes people, jouent un rôle crucial dans cette dynamique.
+
 Q : Justement, 47% de l’échantillon que nous avons interrogé estiment que les journalistes people ont un grand rôle à jouer dans l’influence de la population vis-à-vis des personnalités préférées des Français. En tant que professionnel des médias, comment percevez-vous le rôle des médias dans la formation de l'opinion publique à travers ces classements?
 R : Je ne suis pas encore un professionnel des médias, je ne suis qu’un journaliste en formation. Toutefois, je considère que les médias, y compris les journalistes people, ont un rôle significatif dans la formation de l'opinion publique en relayant et en amplifiant les classements, mais cela doit être exercé de manière éthique et responsable. Les journalistes, nous sommes influents malgré nous. Je pourrais même faire un parallèle avec les influenceurs qui montrent leur vie sur les réseaux sociaux et influencent leur communauté. De la même manière, les journalistes influencent leur communauté (qu’elle soit audiovisuelle, écrite ...). La principale différence réside dans le fait que les journalistes sont contraints (et heureusement) à une certaine éthique, et donc ils ne peuvent exposer que des faits.
-5. Facteurs d'Influence:
+
 Q : En tant qu'étudiant en journalisme, quelle importance accordez-vous aux différentes catégories d'influence telles que l'entourage personnel, les réseaux sociaux, les chercheurs spécialisés, les instituts de sondage, et les journalistes people?
 R : Je donne de l'importance à toutes ces catégories d'influence. Les réseaux sociaux, les médias traditionnels, les chercheurs spécialisés et les instituts de sondage interagissent de manière complexe pour façonner les classements. Je pense qu’il y a évidemment un biais générationnel : ma grand-mère sera plus influencée par Anne-Claire Coudray, et un jeune de mon âge par Hugo Décrypte !
+
 Q : Comment pensez-vous que ces facteurs d'influence interagissent pour façonner les classements?
 R : Ces facteurs se mêlent en prenant en compte les avis du grand public, les analyses d'experts, et les tendances en ligne, ce qui contribue à former les classements. Mais on ne peut pas se demander sans fin par qui les personnes interrogées sont influencées : elles le sont par tout ce qui les entoure.
-6. Implications Personnelles et Médias:
+
 Q : Pensez-vous que les classements des personnalités influencent votre propre perception des personnalités publiques? Dans quelle mesure?
 R. Les classements peuvent influencer ma perception, mais en tant que futur journaliste, il est essentiel de maintenir une perspective critique. Je suis tenue à une certaine éthique,comme j’ai eu l’occasion de le dire précédemment : lorsque je croise ou je dois interviewer une personnalité présente dans ces classements, je ne peux pas prendre en compte mes sentiments personnels. Et c’est vrai même pour les personnalités les plus détestées de France ! Je me dois de rester professionnel.
+
 Q : 93% de notre échantillon estime que les médias ont une très grande influence sur la construction de la popularité d’une personnalité. Comment les médias, selon vous, gèrent-ils la responsabilité associée à la publication de ces classements et à leur impact sur la vie des personnalités concernées?
 R : Les médias doivent gérer cette responsabilité en traitant ces classements de manière éthique, minimisant les préjudices et respectant l'intégrité des personnalités. On ne doit pas donner notre opinion à tout va, comme le font certaines émissions de talk-show avec des pseudos-journalistes qui ne sont que des chroniqueurs. C’est pour cela que c’est super important de n’exposer que les faits.
-7. Rôle des Réseaux Sociaux:
+
 Q : En tant qu'étudiant en journalisme, comment voyez-vous l'impact des réseaux sociaux sur la construction et la diffusion de ces classements?
 R : Les réseaux sociaux jouent un rôle majeur dans la construction et la diffusion des classements, offrant une plateforme interactive pour la participation du public et la viralité des contenus médiatiques.
+
 Q : Pensez-vous que les médias traditionnels et les réseaux sociaux jouent des rôles distincts ou complémentaires dans ce contexte?
 R : Les médias traditionnels et les réseaux sociaux sont complémentaires, chaque plateforme apportant des dynamiques distinctes à la visibilité des personnalités et à la diffusion des classements. Encore une fois, il y a une vraie question générationnelle à travers cette dualité médias traditionnels/ réseaux sociaux.
-8. Perception de l'Identité à travers les Choix:
+
 Q : En tant que futur professionnel des médias, comment percevez-vous la manière dont les individus façonnent leur identité à travers leurs choix de personnalités préférées?
 R : Je perçois la manière dont les individus façonnent leur identité à travers leurs choix de personnalités préférées comme un processus significatif. Ces choix reflètent souvent les valeurs, les intérêts et les aspirations individuelles, contribuant ainsi à la construction de l'identité personnelle.
+
 Q : Pensez-vous que cette construction d'identité varie selon les générations ou les groupes sociaux?
 R : Oui, je pense que la construction d’identité peut varier significativement selon les générations et les groupes sociaux. Les influences culturelles, les tendances du moment et les expériences collectives jouent un rôle majeur dans la manière dont différentes cohortes et groupes sociaux choisissent et interprètent leurs personnalités préférées.
-9. Réflexion sur l'Utilité des Classements:
    
 Q : Comment envisagez-vous l'utilité des classements des personnalités préférées, notamment en ce qui concerne votre futur travail en journalisme?
 R : En ce qui concerne l'utilité des classements des personnalités préférées dans mon futur travail en journalisme, je les envisage comme des indicateurs culturels précieux. Ils offrent un aperçu des préférences du public, permettant aux journalistes de mieux comprendre les dynamiques sociales et d'ajuster leurs reportages en conséquence.
+
 Q : Pensez-vous que ces classements peuvent avoir des implications positives ou négatives pour les personnalités concernées?
 R : Je ne sais pas trop. Je suis conscient que ces classements peuvent avoir des implications positives en renforçant la notoriété des personnalités, mais aussi des implications négatives en créant parfois une pression excessive sur elles. Les médias doivent naviguer avec précaution pour minimiser les effets néfastes.
-10. Conclusion et Perspectives d'Avenir:
+
 Q : En conclusion, comment résumeriez-vous votre compréhension des classements des personnalités préférées en France à la lumière de cette discussion?
 R : Je me concentrerais sur le fait que les classements soient des indicateurs dynamiques reflétant les préférences culturelles en constante évolution. Les médias jouent un rôle clé dans la création et la diffusion de ces classements, influençant ainsi les perceptions publiques.
+
 Q : En tant qu'étudiant en journalisme, quelles perspectives d'avenir entrevoyez-vous pour l'étude et le traitement de ces classements par les médias?
 R : Je perçois l'avenir de l'étude et du traitement de ces classements par les médias comme étant marqué par une plus grande nécessité de transparence, d'éthique et d'adaptation aux évolutions rapides de la société et des médias.
-11. Commentaires Supplémentaires:
+
 Q : Avez-vous des commentaires supplémentaires sur le sujet ou des questions que vous aimeriez soulever?
 R : Pour le moment, je n'ai pas de commentaires supplémentaires sur le sujet. Cependant, je reste ouvert à d'autres questions ou discussions approfondies sur ce thème passionnant.
